@@ -68,5 +68,5 @@ The script presents two kind of outputs:
 Both of them are automatically displayed when the program execution is finished.
 
 If there is any difficulty to use these scripts, 
-please feel free to contact the author: mochamadnurq@gmail.com.
+please feel free to contact: mochamadnurq@gmail.com.
 Thank you.
